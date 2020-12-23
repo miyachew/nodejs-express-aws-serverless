@@ -5,5 +5,9 @@ express with aws api gateway and lambda
 - `POST /auth/login` with userId parameter in the body to generate JWT token with userId
 - `GET /users` to with token check and return error if token not found or cannot be decoded with jwt. 
 
+
+### Initial setup for project
+run `npm install` to install all node modules
+
 ### Set up .env files
 Copy .env.example in the src folder and add the value
