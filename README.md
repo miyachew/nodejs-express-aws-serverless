@@ -1,4 +1,4 @@
-# express-aws-serverless
+# Nodejs express aws serverless
 express with aws api gateway and lambda
 
 ### This repo support 2 api, no database involved in this code.
